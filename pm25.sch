@@ -2812,8 +2812,8 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/346131962AD8067_a.pdf</d
 <attribute name="BOARD_NUMBER" value="BRD-0010"/>
 <attribute name="COMPANY" value="Circuit Dojo"/>
 <attribute name="DOC_NUMBER" value="SCH-0010"/>
-<attribute name="DOC_REV" value="4"/>
-<attribute name="TITLE" value="Particle^2 Sensor"/>
+<attribute name="DOC_REV" value="5"/>
+<attribute name="TITLE" value="Air Quality Wing"/>
 </attributes>
 <variantdefs>
 <variantdef name="Production"/>
